@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my github profile, I'm software developer with an absolute love for back-end development. Creating products, solving problems, and making beautiful user interfaces. always eager to learn new technologies
+Welcome to my github profile, I'm a software developer with an absolute love for back-end development. Creating products, solving problems, and making beautiful user interfaces. always eager to learn new technologies
 
 - 🔭 Software developer at [Payzone](https://www.payzone.ie) ..
 - Graduated in 2019
