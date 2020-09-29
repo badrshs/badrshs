@@ -14,7 +14,7 @@ Welcome to my github profile, I'm a software developer with an absolute love for
 - Java
 
 ## Owned Projects 
-[online learning platform](https://4programmer.com)
+[4Programmer - online learning platform](https://4programmer.com)
 
 [online currency converter](https://currency-today.com)
 
