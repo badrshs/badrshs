@@ -42,13 +42,7 @@ I believe in writing clean, efficient code that not only solves problems but als
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badrshs)
 
 ---
-
-<details>
-<summary>⚡ Fun Fact</summary>
-I can debug code faster than I can find matching socks in the morning!
-</details>
-
 <!-- 
-Visitors count (Add this if you want to track profile views)
+Visitors count
 ![](https://visitor-badge.glitch.me/badge?page_id=badrshs.badrshs)
 -->
