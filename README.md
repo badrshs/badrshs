@@ -1,47 +1,54 @@
-### Hi there 👋
-Welcome to my github profile, I'm a software developer with an absolute love for back-end development. Creating products, solving problems, and making beautiful user interfaces. always eager to learn new technologies
+# 👋 Hello, World! I'm Badr
 
-- 🔭 Software developer at [Payzone](https://www.payzone.ie) ..
-- Graduated in 2019
+## 💻 Full-Stack Sorcerer | Back-End Enthusiast | Problem Solver
 
-## Experience in building applications with
-- PHP, Laravel
-- C#, .NET Core  
-- CSS, SASS , Bootstrap
-- Javascript, jQuery, Angular, AngularJs
-- SQL, MySql
-- ionic
-- Java
+Crafting digital solutions and turning coffee into code since 2019. My passion lies in back-end development, but I'm always eager to learn and adapt to new technologies across the stack.
 
-## Owned Projects 
-[4Programmer - online learning platform](https://4programmer.com)
+### 🚀 Current Mission
 
-[online currency converter](https://currency-today.com)
+Software Developer at [Payzone](https://www.payzone.ie), where we turn complex financial processes into seamless user experiences.
 
-## Open Source Project
-[Slack Backup System](https://github.com/badrshs/Slack_Backup)
+### 🛠️ Tech Arsenal
 
-[upload-website](https://github.com/badrshs/upload-web) - youtube demo [here](https://www.youtube.com/watch?v=UWi5Zjwmnsc)
+```
+Back-End:     PHP | Laravel | C# | .NET Core | Java
+Front-End:    JavaScript | Angular | AngularJS | jQuery | CSS | SASS | Bootstrap
+Mobile:       Ionic
+Databases:    SQL | MySQL
+```
 
-[DatabaseDeployment](https://github.com/badrshs/DatabaseDeployment) still under developmment 
+### 🏗️ Architectural Marvels (Projects)
 
-## other links 
+- 🎓 [4Programmer](https://4programmer.com) 
+- 💱 [Currency Today](https://currency-today.com)
 
-:mega: [linkden](https://www.linkedin.com/in/badrsh)
+### 🌟 Open Source Contributions
 
+- 🔄 [Slack Backup System](https://github.com/badrshs/Slack_Backup) - Never lose a message again
+- 🚀 [Upload Website](https://github.com/badrshs/upload-web) - Simplifying file uploads ([YouTube Demo](https://www.youtube.com/watch?v=UWi5Zjwmnsc))
+- 🛠️ [DatabaseDeployment](https://github.com/badrshs/DatabaseDeployment) - Streamlining database management (WIP)
 
+### 📈 GitHub Stats
 
-<!--
-**badrshs/badrshs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=badrshs&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+### 💡 Programming Philosophy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I believe in writing clean, efficient code that not only solves problems but also brings joy to both users and fellow developers.
+
+### 🌐 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badrsh)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badrshs)
+
+---
+
+<details>
+<summary>⚡ Fun Fact</summary>
+I can debug code faster than I can find matching socks in the morning!
+</details>
+
+<!-- 
+Visitors count (Add this if you want to track profile views)
+![](https://visitor-badge.glitch.me/badge?page_id=badrshs.badrshs)
 -->
